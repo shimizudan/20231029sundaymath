@@ -225,7 +225,6 @@ md"""
 ### 標本標準偏差
 
 
-
 ![](https://shimizudan.github.io/20231029sundaymath/pic5.png)
 
 
