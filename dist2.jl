@@ -128,22 +128,23 @@ md"""
 
 ### 今回「？？？」となったところ
 
-
 #### 二項分布が正規分布に近づく？
 
 まずは教科書を見てみましょう。（数研出版）
 
 
-![test](https://shimizudan.github.io/20231029sundaymath/pic1.png)
+![](https://shimizudan.github.io/20231029sundaymath/pic1.png)
 
 """
 
 # ╔═╡ f90c7029-e76a-4174-a51b-291fb1a3af64
-html"""
+md"""
 
-<img width="1000" src="pic4.png">
+** 二項分布は$n$が大きくなると正規分布とみなせる？**
 
-![test](pic4.png)
+この記述で生徒は納得できるのか？
+
+
 
 """
 
@@ -4089,7 +4090,7 @@ version = "1.4.1+0"
 # ╟─b304b95b-e807-4fee-9bde-2498bb21f35b
 # ╟─9684fb5c-da77-46fc-b88a-25f55ea5cbf4
 # ╟─0927baed-7e7f-4b75-8028-3508364c76de
-# ╠═d06ebc23-6e59-4b31-abba-dc3ebf6ce296
+# ╟─d06ebc23-6e59-4b31-abba-dc3ebf6ce296
 # ╠═f90c7029-e76a-4174-a51b-291fb1a3af64
 # ╟─8d0a3b87-830c-43de-ad41-0c492cc41279
 # ╠═cc750e2e-04c0-4b93-a165-fee00bfd2d82
