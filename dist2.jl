@@ -212,7 +212,21 @@ approx(n24,p24)
 # ╔═╡ dd0ca2d0-71bf-4f92-a904-7f5f3a868d76
 md"""
 
-### 
+### 復元抽出と非復元抽出
+
+
+![](https://shimizudan.github.io/20231029sundaymath/pic3.png)
+
+
+"""
+
+# ╔═╡ 1931c38d-275a-4478-b60c-42ae07775690
+md"""
+### 標本標準偏差
+
+
+
+![](https://shimizudan.github.io/20231029sundaymath/pic5.png)
 
 
 """
@@ -3062,6 +3076,7 @@ version = "1.4.1+0"
 # ╟─5558e7b8-57df-4292-b778-a08a827b9de7
 # ╠═867caf60-c15e-4f90-bc56-749e4023c153
 # ╠═dd0ca2d0-71bf-4f92-a904-7f5f3a868d76
+# ╠═1931c38d-275a-4478-b60c-42ae07775690
 # ╟─86d9a754-3261-43a4-9d78-7ddf91c7e5f0
 # ╟─90dfadf5-50cf-45d1-a0ea-cad98f2f4751
 # ╟─38ea5bb2-99bc-47ce-a4ee-be8423156941
