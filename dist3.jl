@@ -81,10 +81,22 @@ md"""
 
 ## 標本標準偏差について
 
-まずは教科書を見てみましょう。（数研出版）
+まずは教科書（数研出版）を見てみましょう。
 
 
-![](https://shimizudan.github.io/20231029sundaymath/pic1.png)
+### 数学B p.93
+
+
+![](https://shimizudan.github.io/20231029sundaymath/pic7.png)
+
+標本標準偏差は確率変数であると書いてありますが，特に確率分布を求めたり，平均などを求めたりはしません。
+
+### 数学B p.101
+
+その後，推定に移り，「母標準偏差$\sigma$がわからず，標本の大きさ$n$が大きいときは標本標準偏差の値を用いて差し支えない。」とあります。
+
+
+![](https://shimizudan.github.io/20231029sundaymath/pic7.png)
 
 """
 
